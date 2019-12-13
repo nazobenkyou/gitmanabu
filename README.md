@@ -21,6 +21,8 @@ git clone https://github.com/ervitis/gitmanabu.git
 
 ステータスはファイルをコミットしたとコミットしてなかったファイルを現れてる
 
+[![asciicast](https://asciinema.org/a/UHspzb14PMbaUAq2IQx03TB2K.svg)](https://asciinema.org/a/UHspzb14PMbaUAq2IQx03TB2K)
+
 
 ## 3. git add
 
