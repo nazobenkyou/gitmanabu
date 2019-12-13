@@ -62,7 +62,7 @@ git add .
 git commit -m "add hello world file"
 ```
 
-
+[![asciicast](https://asciinema.org/a/GYODnxbnV1fdOnD2alpnCxWt7.svg)](https://asciinema.org/a/GYODnxbnV1fdOnD2alpnCxWt7)
 
 ## 5. git checkout
 
