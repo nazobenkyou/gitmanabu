@@ -66,13 +66,56 @@ git commit -m "add hello world file"
 
 ## 5. git checkout
 
+[![asciicast](https://asciinema.org/a/AeH2W2rALMgd6knRKYuuWwISN.svg)](https://asciinema.org/a/AeH2W2rALMgd6knRKYuuWwISN)
+
 いろいろできます
 
-- ブランチを変わる
+- ブランチを変わると新しいブランチを作る
+
+```bash
+git checkout -b feature
+
+git checkout feature
+```
+
 - ファイルの最後のコミットに戻すことになる
 
-## 6. git push
+## 6. git branch
 
-## 7. git pull
+ブランチをみせることです
 
-## 8. git stash
+```bash
+git branch -a
+```
+
+ブランチを消す
+
+- マージをしてあともうブランチ要らない場合
+
+```bash
+git branch -d feature
+```
+
+とか
+
+```bash
+git branch -D feature
+```
+
+## 7. git push
+
+```bash
+git push origin ブランチの名前
+```
+
+## 8. git pull
+
+```bash
+git pull origin ブランチの名前
+```
+
+## 9. git stash
+
+
+## 10. git merge
+
